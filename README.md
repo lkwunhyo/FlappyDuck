@@ -1,13 +1,13 @@
 README
 
 FlappyDuck is a game with a cute duck that found itself flapping around the sky avoiding pipes.
-Try to see if there is an end without losing by hitting the pipes!
+Try to see if there is an end without losing by hitting the pipes!<br/>
 The program is written in C and uses the CAB202 ZDK libraries given from QUT CAB202.
 
 HOW TO
 
-Try to avoid the pipes otherwise you will lose!
-Space: Jump
+Try to avoid the pipes otherwise you will lose!<br/>
+Space: Jump<br/>
 Best played in 115x45 resolution.
 
 ![FlappyDuck Start Image](https://github.com/lkwunhyo/FlappyDuck/blob/master/Screenshots/FlappyDuckOpen.gif)
