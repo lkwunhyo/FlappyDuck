@@ -14,7 +14,7 @@ Best played in 115x45 resolution.
 
 ![FlappyDuck Easy Image](https://github.com/lkwunhyo/FlappyDuck/blob/master/Screenshots/FlappyDuckGameplay.gif)
 
-![FlappyDuck Hard Image](https://github.com/lkwunhyo/FlappyDuck/blob/master/Screenshots/FlappyDuckGameplayFast.gif
+![FlappyDuck Hard Image](https://github.com/lkwunhyo/FlappyDuck/blob/master/Screenshots/FlappyDuckGameplayFast.gif)
 
 CONTACT
 
